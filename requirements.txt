@@ -1,0 +1,9 @@
+asn1crypto==1.4.0
+click==8.0.3
+colorama==0.4.4
+importlib-metadata==4.10.0
+lxml==4.7.1
+pure-python-adb==0.3.0.dev0
+pyaxmlparser==0.3.26
+typing_extensions==4.0.1
+zipp==3.6.0
